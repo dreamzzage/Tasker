@@ -1,6 +1,17 @@
 ## TASKER
 
 
+FUNDING
+--------
+
+If you enjoy Tasker and want to support continued development, you can contribute here:
+
+Ko‑fi:
+https://ko-fi.com/Dreamzzage
+
+Your support helps keep Tasker growing with new features, UI upgrades, and long‑term maintenance.
+
+
 Tasker is a modern, theme‑aware productivity application designed for focus, 
 clarity, and daily structure. It includes a circular Pomodoro timer, a premium 
 habit tracker, task management, deadline tracking, and a clean dashboard UI.
