@@ -159,11 +159,8 @@ Created by Dreamzzage.
 
 
 CHANGELOG
-========================================
+------------------------------------
 
-Project: Tasker — Productivity Suite
-Author: Dreamzzage
-----------------------------------------
 
 Version 1.3.0 — Circular Pomodoro + Habit Tracker
 ------------------------------------------------
