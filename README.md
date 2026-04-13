@@ -6,11 +6,15 @@ FUNDING
 
 If you enjoy Tasker and want to support continued development, you can contribute here:
 
-Ko‑fi:
-https://ko-fi.com/Dreamzzage
+[![Ko‑fi](https://img.shields.io/badge/Ko%E2%80%91fi-support%20me-ff5f5f)](https://ko-fi.com/Dreamzzage)
 
 Your support helps keep Tasker growing with new features, UI upgrades, and long‑term maintenance.
 
+
+-------------------------------------------------------------------------------
+
+
+### ABOUT
 
 Tasker is a modern, theme‑aware productivity application designed for focus, 
 clarity, and daily structure. It includes a circular Pomodoro timer, a premium 
@@ -19,11 +23,7 @@ habit tracker, task management, deadline tracking, and a clean dashboard UI.
 Built with Python + Tkinter, Tasker uses floating rounded cards, soft shadows, 
 and a minimal SaaS‑style aesthetic.
 
-
-
-
-
-
+----------------------------------------------------------------------------
 
 
 
