@@ -1,4 +1,4 @@
-## TASKER — Productivity Suite
+## TASKER
 
 
 Tasker is a modern, theme‑aware productivity application designed for focus, 
