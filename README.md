@@ -19,6 +19,15 @@ habit tracker, task management, deadline tracking, and a clean dashboard UI.
 Built with Python + Tkinter, Tasker uses floating rounded cards, soft shadows, 
 and a minimal SaaS‑style aesthetic.
 
+
+
+
+
+
+
+
+
+
 __FEATURES__
 
 1. Circular Pomodoro Timer
@@ -64,6 +73,13 @@ __FEATURES__
    - Floating rounded cards
    - Soft shadows
    - Accent colors
+
+
+
+
+
+
+
 
 REQUIREMENTS
 ----------------------------------------
