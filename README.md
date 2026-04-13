@@ -1,5 +1,7 @@
 ========================================
-            TASKER — Productivity Suite
+            ## TASKER — Productivity Suite
+========================================
+
 
 Tasker is a modern, theme‑aware productivity application designed for focus, 
 clarity, and daily structure. It includes a circular Pomodoro timer, a premium 
