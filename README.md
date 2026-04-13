@@ -188,6 +188,33 @@ Created by Dreamzzage.
 CHANGELOG
 ------------------------------------
 
+Version 1.3.5 — Minor release + timezone picker on Deadline add
+------------------------------------------------
+- Full **timezone‑aware deadlines** using ISO‑8601 datetime strings  
+- Automatic migration from legacy `due_date` → `due_datetime`  
+- New **Timezone + Time Picker** with system‑timezone auto‑detection  
+- Rebuilt panels:
+  - NewDeadlinePanel  
+  - EditDeadlinePanel  
+  - EditTaskPanel  
+  - DeleteConfirmPanel  
+- CalendarPanel updated to display deadlines with date, time, and timezone  
+- DeadlinesWidget now sorts by full datetime  
+- Better color consistency and typography across all panels  
+- Enhanced RoundedCard rendering and shadow elevation  
+- Improved panel spacing, alignment, and slide‑in behavior  
+- More robust save/load system for deadlines  
+- Refactored main.py for cleaner architecture and load order  
+- NameError for `load_pomodoro_settings`  
+- Timezone parsing inconsistencies  
+- Right‑click index mismatch in DeadlinesWidget  
+- Calendar popup formatting for deadlines  
+- Panel close behavior not resetting active panel state  
+- One‑file PyInstaller builds may load slower  
+- CalendarPanel may require redraw after window resize  
+- Sound system uses Windows `winsound` (silent fallback on macOS/Linux)  
+
+
 
 Version 1.3.0 — Circular Pomodoro + Habit Tracker
 ------------------------------------------------
