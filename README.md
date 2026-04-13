@@ -8,9 +8,7 @@ habit tracker, task management, deadline tracking, and a clean dashboard UI.
 Built with Python + Tkinter, Tasker uses floating rounded cards, soft shadows, 
 and a minimal SaaS‑style aesthetic.
 
-----------------------------------------
 FEATURES
-----------------------------------------
 
 1. Circular Pomodoro Timer
    - Smooth shrinking ring animation
@@ -56,7 +54,6 @@ FEATURES
    - Soft shadows
    - Accent colors
 
-----------------------------------------
 REQUIREMENTS
 ----------------------------------------
 
@@ -68,7 +65,6 @@ Required modules:
 - json (built‑in)
 - os, sys, datetime (built‑in)
 
-----------------------------------------
 RUNNING THE APP
 ----------------------------------------
 
@@ -97,7 +93,8 @@ This script:
 - Uses icon.ico
 - Outputs to: dist/main/
 
-----------------------------------------
+
+
 PROJECT STRUCTURE
 ----------------------------------------
 
@@ -111,7 +108,8 @@ tasker/
 ├── build.bat
 ├── script.bat (for cleaning __pycache__ folders, NOT included in build.bat)
 
-----------------------------------------
+
+
 SAVE LOCATIONS
 ----------------------------------------
 
@@ -121,7 +119,8 @@ General app data:
 Habit tracker data:
     C:\Users\<USER>\AppData\Local\tasker\habit_data.json
 
-----------------------------------------
+
+
 LICENSE
 ----------------------------------------
 
@@ -152,8 +151,6 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
 
-
-----------------------------------------
 AUTHOR
 ----------------------------------------
 
@@ -161,8 +158,7 @@ Created by Dreamzzage.
 
 
 
-========================================
-               CHANGELOG
+CHANGELOG
 ========================================
 
 Project: Tasker — Productivity Suite
